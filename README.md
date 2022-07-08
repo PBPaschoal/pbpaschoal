@@ -1,4 +1,5 @@
-### Olá você! Eu sou o Paulo Paschoal 👋💬
+## Olá você! Eu sou o Paulo Paschoal 👋💬
+### Welcome to my GitHub :smile_cat:
 
 - 🔭 Embarcando nessa área magnífica!
 - 🌱 Atualmente focando os estudos no front-end
