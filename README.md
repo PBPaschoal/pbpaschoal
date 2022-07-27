@@ -2,7 +2,7 @@
 ### Welcome to my GitHub :smile_cat:
 
 - 🔭 Embarcando nessa área magnífica!
-- 🌱 Atualmente focando os estudos no front-end
+- 🌱 Atualmente focado: front-end e JAVA
 - 📫 Contate-me no e-mail: pb.paschoal@gmail.com
 
 <div align="center">
