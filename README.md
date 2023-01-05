@@ -1,5 +1,5 @@
 ## Olá você! Eu sou o Paulo Paschoal 👋💬
-### Welcome to my GitHub :smile_cat:
+### Bem-vindo ao meu GitHub :smile_cat:
 
 - 🔭 Embarcando nessa área magnífica!
 - 🌱 Atualmente focado: Front-end e Back-end (Java e C#)
