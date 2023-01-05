@@ -1,8 +1,8 @@
 ## Olá você! Eu sou o Paulo Paschoal 👋💬
 ### Bem-vindo ao meu GitHub :smile_cat:
 
-- 🔭 Embarcando nessa área magnífica!
-- 🌱 Atualmente focado: Front-end e Back-end (Java e C#)
+- 🔭 Eu amo essa área magnífica!
+- 🌱 Atualmente focado: Front-end e Back-end
 - 📫 Contate-me no e-mail: pb.paschoal@gmail.com
 
 <div align="center">
