@@ -3,7 +3,7 @@
 
 - 🔭 Eu amo essa área magnífica!
 - 🌱 Java; HTML5; CSS3; JS
-- 📫 Contate-me no e-mail: pb.paschoal@gmail.com
+- 📫 Contate-me no e-mail: programming.paschoal@gmail.com
   
   ## 
  
