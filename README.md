@@ -1,8 +1,8 @@
-## Ei você! Eu sou o Paulo Paschoal 👋💬
+## Paulo Bruno Paschoal, mas pode me chamar de Bruno! 👋💬
 ### Bem-vindo ao meu GitHub :smile_cat:
 
 - 🔭 Eu amo essa área magnífica!
-- 🌱 Java; HTML5; CSS3; JS
+- 🌱 HTML5; CSS3; JS; Java
 - 📫 Contate-me no e-mail: programming.paschoal@gmail.com
   
   ## 
