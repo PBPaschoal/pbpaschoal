@@ -2,7 +2,7 @@
 ### Bem-vindo ao meu GitHub :smile_cat:
 
 - 🔭 Eu amo essa área magnífica!
-- 🌱 HTML5; CSS3; JS; Java
+- 🌱 HTML5; CSS3; JS; JAVA
 - 📫 Contate-me no e-mail: programming.paschoal@gmail.com
   
   ## 
