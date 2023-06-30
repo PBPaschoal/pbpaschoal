@@ -4,7 +4,7 @@
 - 🔭 Eu amo essa área magnífica!
 - 🌱 HTML5; CSS3; JS; JAVA
 - 📫 Contate-me no e-mail: programming.paschoal@gmail.com
-- Obs: Agora em maio de 2023 que estou começando a organizar melhor o meu GitHub, desculpe pelos repositorios anteriores (bagunçados rs).
+- :left_speech_bubble: Enquanto a oportunidade não vem, eu mesmo construo a minha própria sorte.
   
   ## 
  
