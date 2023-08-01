@@ -2,7 +2,8 @@
 ### Bem-vindo ao meu GitHub :smile_cat:
 
 - 🔭 Eu amo essa área magnífica!
-- 🌱 HTML5; CSS3; JS; JAVA
+- 👨‍💻 Me especializando em: Java
+- 🌱 Conhecimento básico em: HTML5; CSS3; JS; JAVA; C#; Python; C++; SQL
 - 📫 Contate-me no e-mail: programming.paschoal@gmail.com
 - :left_speech_bubble: Enquanto a oportunidade não vem, eu mesmo construo a minha própria sorte.
   
