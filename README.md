@@ -3,8 +3,8 @@
 
 - 🔭 Eu amo essa área magnífica!
 - 👨‍💻 Me especializando em: Java
-- 🌱 Conhecimento básico em: HTML5; CSS3; JS; JAVA; C#; Python; C++; SQL
-- 📫 Contate-me no e-mail: programming.paschoal@gmail.com
+- 🌱 JAVA; C#; SQL; Python; C++; HTML5; CSS3; JavaScript
+- 📫 Contate-me no e-mail: programming.paschoal@gmail.com ou pb.paschoal@gmail.com
 - :left_speech_bubble: Enquanto a oportunidade não vem, eu mesmo construo a minha própria sorte.
   
   ## 
