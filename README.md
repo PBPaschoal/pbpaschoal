@@ -1,7 +1,7 @@
-## Paulo Bruno Paschoal, mas pode me chamar de Bruno! 👋💬
+## Paulo Bruno Paschoal 👋💬
 ### Bem-vindo ao meu GitHub :smile_cat:
 
-- 🔭 Eu amo essa área magnífica!
+- 👨🏻‍💻 "Programar é uma arte, esquecer as vezes do ponto e virgula faz parte" 😆 
 - 👨‍💻 Me especializando em: Java
 - 🌱 JAVA; C#; SQL; Python; C++; HTML5; CSS3; JavaScript
 - 📫 Contate-me no e-mail: programming.paschoal@gmail.com ou pb.paschoal@gmail.com
