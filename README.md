@@ -9,6 +9,13 @@
   
   ## 
 
+<div>
+	<a href="https://github.com/pbpaschoal">
+		<img height="200em" src="https://github-readme-stats.vercel.app/api?username=pbpaschoal&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+	</a>
+	<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbpaschoal&layout=compact&langs_count=16&theme=radical"/>
+</div>
+
 
  <div style="display: inline_block"><br>
   <img align="center" alt="PB-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
