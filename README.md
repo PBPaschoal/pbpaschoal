@@ -26,7 +26,7 @@
   	<img align="center" alt="PB-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   	<img align="center" alt="PB-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 	 <img align="center" alt="PB-bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-	 <img align="center" alt="PB-SQL" height="35" width="50" src="https://github.com/PBPaschoal/SQL/blob/main/Imagens/sql.png?raw=true">
+	 <img align="center" alt="PB-SQL" height="30" width="50" src="https://github.com/PBPaschoal/SQL/blob/main/Imagens/sql.png?raw=true">
 </div>
 
  <div>
