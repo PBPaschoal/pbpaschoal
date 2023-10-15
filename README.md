@@ -3,7 +3,7 @@
 
 - 👨🏻‍💻 "Programar é uma arte, esquecer as vezes do ponto e virgula faz parte" 😆
 - 👨‍💻 Me especializando em: Java
-- 🌱 Java; C; C++; C#; SQL; Python; HTML5; CSS3; JavaScript
+- 🌱 Java; SQL; C#; Python; C; C++; HTML5; CSS3; JavaScript
 - 📫 Contate-me no e-mail: programming.paschoal@gmail.com ou pb.paschoal@gmail.com
 - :left_speech_bubble: Enquanto a oportunidade não vem, eu construo a minha própria sorte.
 
