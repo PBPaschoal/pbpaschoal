@@ -39,7 +39,7 @@
     <img align="center" alt="PB-bootstrap" height="40" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
     <img align="center" alt="PB-SQL" height="30" width="50"
-        src="https://github.com/PBPaschoal/SQL/blob/main/Imagens/sql.png?raw=true">
+        src="https://github.com/PBPaschoal/SQL/blob/main/Imagens/sql.png">
 </div>
 
 <div>
