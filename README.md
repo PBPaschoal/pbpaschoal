@@ -1,5 +1,5 @@
-## Paulo Bruno Paschoal 👋💬
-### Bem-vindo ao meu GitHub :smile_cat:
+## Paulo Bruno Paschoal 
+### Back-end Developer 💬
 
 - 👨🏻‍💻 "Programar é uma arte, esquecer as vezes do ponto e virgula faz parte" 😆
 - 👨‍💻 Me especializando em: Java
