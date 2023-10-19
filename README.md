@@ -22,6 +22,10 @@
 <div style="display: inline_block"><br>
     <img align="center" alt="PB-Java" height="45" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+    <img align="center" alt="PB-Spring-Boot" height="30" width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+    <img align="center" alt="PB-SQL" height="30" width="50"
+        src="https://github.com/PBPaschoal/SQL/blob/main/Imagens/sql.png">
     <img align="center" alt="PB-C" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img align="center" alt="PB-C++" height="30" width="40"
@@ -38,8 +42,6 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="PB-bootstrap" height="40" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="PB-SQL" height="30" width="50"
-        src="https://github.com/PBPaschoal/SQL/blob/main/Imagens/sql.png">
 </div>
 
 <div>
