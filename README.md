@@ -25,7 +25,7 @@
     <img align="center" alt="PB-Spring-Boot" height="30" width="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
     <img align="center" alt="PB-SQL" height="30" width="50"
-        src="https://github.com/PBPaschoal/SQL/blob/main/Imagens/sql.png">
+        src="https://github.com/PBPaschoal/SQL/blob/main/Udemy/SQL/Imagens/sql.png?raw=true">
     <img align="center" alt="PB-C" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img align="center" alt="PB-C++" height="30" width="40"
