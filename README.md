@@ -2,8 +2,7 @@
 ### Back-end Developer 💬
 
 - 👨🏻‍💻 "Programar é uma arte, esquecer as vezes do ponto e virgula faz parte" 😆
-- 👨‍💻 Me especializando em: Java
-- 🌱 Java; Spring Boot; SQL; C#; Python; C; C++; HTML5; CSS3; JavaScript
+- 👨‍💻 Java; Spring Boot; SQL; C#; Python; HTML5; CSS3; JavaScript
 - 📫 Contate-me no e-mail: pb.paschoal@gmail.com
 - :left_speech_bubble: Enquanto a oportunidade não vem, eu construo a minha própria sorte.
 
