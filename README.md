@@ -1,5 +1,5 @@
 ## Paulo Bruno Paschoal 
-### Back-end Developer 💬
+### Developer | System analyst 💬
 
 - 👨🏻‍💻 C# .NET, Java; SQL; Python; HTML5; CSS3; JavaScript
 - 📫 Contate-me no e-mail: pb.paschoal@gmail.com
