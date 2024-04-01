@@ -3,7 +3,7 @@
 
 - 👨🏻‍💻 C# .NET, Java; SQL; Python; HTML5; CSS3; JavaScript
 - 📫 Contate-me no e-mail: pb.paschoal@gmail.com
-- :left_speech_bubble: Enquanto a oportunidade não vem, eu construo a minha própria sorte.
+- :left_speech_bubble: Programar é vida! 
 
 ##
 
