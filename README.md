@@ -23,15 +23,14 @@
     <img align="center" alt="PB-Spring-Boot" height="30" width="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
     <img align="center" width="40" height="40" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
-    <img align="center" alt="PB-SQL" height="30" width="50"
-        src="https://github.com/PBPaschoal/SQL/blob/main/Udemy/SQL/Imagens/sql.png?raw=true">
-    <img align="center" alt="PB-C" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    <img align="center" alt="PB-C++" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-    <img align="center" alt="PB-Csharp" height="30" width="40"
+    <img align="center" alt="PB-Csharp" height="30" width="42"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="PB-Python" height="30" width="40"
+    <img align="center" alt="PB-C++" height="30" width="42"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+    <img align="center" alt="PB-C" height="30" width="42"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="center" width="40" height="40" src="https://img.icons8.com/arcade/64/sql.png" alt="sql"/>
+    <img align="center" alt="PB-Python" height="30" width="42"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="PB-HTML" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
