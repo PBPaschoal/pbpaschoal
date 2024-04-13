@@ -1,9 +1,9 @@
 ## Paulo Bruno Paschoal 
 ### Developer | System analyst 💬
 
-- 👨🏻‍💻 C# .NET, Java; SQL; Python; HTML5; CSS3; JavaScript
+- :left_speech_bubble: Programar é vida!
 - 📫 Contate-me no e-mail: pb.paschoal@gmail.com
-- :left_speech_bubble: Programar é vida! 
+- 👨🏻‍💻 Java; Spring Boot; Angular; C# .NET; SQL; Python; HTML5; CSS3; JavaScript
 
 ##
 
@@ -22,6 +22,7 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
     <img align="center" alt="PB-Spring-Boot" height="30" width="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+    <img align="center" width="40" height="40" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
     <img align="center" alt="PB-SQL" height="30" width="50"
         src="https://github.com/PBPaschoal/SQL/blob/main/Udemy/SQL/Imagens/sql.png?raw=true">
     <img align="center" alt="PB-C" height="30" width="40"
