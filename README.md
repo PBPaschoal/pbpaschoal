@@ -3,7 +3,7 @@
 
 - :left_speech_bubble: Programar é vida!
 - 📫 Contate-me no e-mail: pb.paschoal@gmail.com
-- 👨🏻‍💻 Java; Spring Boot; Angular; C# .NET; SQL; Python; HTML5; CSS3; JavaScript
+- 👨🏻‍💻 C# .NET; Java; Spring Boot; Angular; SQL; Python; HTML5; CSS3; JavaScript
 
 ##
 
