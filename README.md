@@ -3,7 +3,7 @@
 
 - :left_speech_bubble: Programar é vida!
 - 📫 Contate-me no e-mail: pb.paschoal@gmail.com
-- 👨🏻‍💻 C#; SQL; Java; HTML5; CSS3
+- 👨🏻‍💻 Python; C#; Java; HTML5; CSS3
 
 ##
 
