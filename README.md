@@ -17,22 +17,18 @@
 </div>-->
 
 
-<div style="display: inline_block"><br>
-    <img align="center" alt="PB-Csharp" height="30" width="42"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="PB-Java" height="45" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-    <img align="center" alt="PB-Python" height="30" width="42"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" width="40" height="40" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
-    <img align="center" width="40" height="40" src="https://img.icons8.com/arcade/64/sql.png" alt="sql"/>
-    <img align="center" alt="PB-HTML" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="PB-CSS" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="PB-bootstrap" height="40" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-</div>
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="Csharp" height="30" width="42"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" height="45" width="40"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" width="42"></td>
+    <td><img src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs" width="40" height="40"></td>
+    <td><img src="https://img.icons8.com/arcade/64/sql.png" alt="sql" width="40" height="40"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="30" width="40"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="30" width="40"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" height="40" width="40"></td>
+  </tr>
+</table>
 
 <div>
     <br><a href="mailto:pb.paschoal@gmail.com"><img
